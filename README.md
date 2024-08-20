@@ -12,3 +12,22 @@ SQL task | LeetCode
 
 <a href = "https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50"> 1683. Invalid Tweets <a>
 
+## Basic Join
+<a href = "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50"> 1378. Replace Employee ID With The Unique Identifier <a>
+
+<a href = "https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50"> 1068. Product Sales Analysis I <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
