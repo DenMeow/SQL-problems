@@ -23,7 +23,9 @@ SQL task | LeetCode
 
 <a href = "https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50"> 1280. Students and Examinations <a>
 
-<a href = "">  <a>
+## Basic Aggregate Functions
+
+<a href = "https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50"> 620. Not Boring Movies <a>
 
 <a href = "">  <a>
 
