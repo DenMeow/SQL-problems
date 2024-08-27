@@ -21,7 +21,7 @@ SQL task | LeetCode
 
 <a href = "https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50"> 577. Employee Bonus <a>
 
-<a href = "">  <a>
+<a href = "https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50"> 1280. Students and Examinations <a>
 
 <a href = "">  <a>
 
