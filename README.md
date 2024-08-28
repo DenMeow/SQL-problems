@@ -27,7 +27,7 @@ SQL task | LeetCode
 
 <a href = "https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50"> 620. Not Boring Movies <a>
 
-<a href = "">  <a>
+<a href = "https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50"> 1251. Average Selling Price <a>
 
 <a href = "">  <a>
 
