@@ -35,9 +35,11 @@ SQL task | LeetCode
 
 <a href = "https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50"> 1211. Queries Quality and Percentage <a>
 
-<a href = "">  <a>
+## Sorting and Grouping
 
-<a href = "">  <a>
+<a href = "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50"> 2356. Number of Unique Subjects Taught by Each Teacher <a>
+
+<a href = "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50"> 1141. User Activity for the Past 30 Days I <a>
 
 <a href = "">  <a>
 
