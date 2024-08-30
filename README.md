@@ -43,3 +43,25 @@ SQL task | LeetCode
 
 <a href = "https://leetcode.com/problems/classes-more-than-5-students/description/?envType=study-plan-v2&envId=top-sql-50"> 596. Classes More Than 5 Students <a>
 
+<a href = "https://leetcode.com/problems/find-followers-count/?envType=study-plan-v2&envId=top-sql-50"> 1729. Find Followers Count <a>
+
+<a href = "https://leetcode.com/problems/biggest-single-number/?envType=study-plan-v2&envId=top-sql-50"> 619. Biggest Single Number <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+<a href = "">  <a>
+
+
+
