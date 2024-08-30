@@ -29,6 +29,14 @@ SQL task | LeetCode
 
 <a href = "https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50"> 1251. Average Selling Price <a>
 
+<a href = "https://leetcode.com/problems/project-employees-i/?envType=study-plan-v2&envId=top-sql-50"> 1075. Project Employees I <a>
+
+<a href = "https://leetcode.com/problems/percentage-of-users-attended-a-contest/?envType=study-plan-v2&envId=top-sql-50"> 1633. Percentage of Users Attended a Contest <a>
+
+<a href = "https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50"> 1211. Queries Quality and Percentage <a>
+
+<a href = "">  <a>
+
 <a href = "">  <a>
 
 <a href = "">  <a>
