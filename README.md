@@ -41,5 +41,5 @@ SQL task | LeetCode
 
 <a href = "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50"> 1141. User Activity for the Past 30 Days I <a>
 
-<a href = "">  <a>
+<a href = "https://leetcode.com/problems/classes-more-than-5-students/description/?envType=study-plan-v2&envId=top-sql-50"> 596. Classes More Than 5 Students <a>
 
